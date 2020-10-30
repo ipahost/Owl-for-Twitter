@@ -10,10 +10,22 @@ A powerful tweak for Twitter!
    
     | Application | Version | Owl |
     | --- | --- | --- |
-    | [Twitter](https://mega.nz/file/tcxEnSJI#pkAZn-V7QLgKZ2TB77H5fMvXccsM4DW1geuZvtk1lSY) | 8.35.1 | 1.3 |
+    | [Twitter](https://mega.nz/file/pcQGFL5Y#tNrK2sRtdLxaP5_eAat0grZPMEDwp3bBhunlJdrQYzs) | 8.41.1 | 1.4 |
 
         
 &nbsp;
+
+***Features***
+
+- [x] Save tweets as images
+- [x] Save videos in inbox
+- [x] Disable typing notification
+- [x] Disable like action
+- [x] Save feed videos
+- [x] Like confirmation
+- [x] Unfollow confirmation
+- [x] Mute confirmation
+- [x] Send voice messages
 
 ## How to Download
 
