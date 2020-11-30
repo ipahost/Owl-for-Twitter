@@ -10,7 +10,7 @@ A powerful tweak for Twitter!
    
     | Application | Version | Owl |
     | --- | --- | --- |
-    | [Twitter](https://mega.nz/file/YEAwRJZS#K7tXe5DvURAcUD1UaUbdKMzog5QQwgwV0DRHXgxWMZU) | 8.41.1 | 1.4 |
+    | [Twitter](https://mega.nz/file/MZYWSJzJ#7yxx9YU-6Hlv5n3OFwc_jGvKN2cW7sqyqa-0kFItM3w) | 8.44.1 | 1.5 |
 
         
 &nbsp;
@@ -25,6 +25,7 @@ A powerful tweak for Twitter!
 - [x] Like confirmation
 - [x] Unfollow confirmation
 - [x] Mute confirmation
+- [x] Remove Fleets
 - [x] Send voice messages
 
 ## How to Download
