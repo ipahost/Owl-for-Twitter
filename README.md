@@ -10,13 +10,14 @@ A powerful tweak for Twitter!
    
     | Application | Version | Owl |
     | --- | --- | --- |
-    | [Twitter](https://mega.nz/file/MZYWSJzJ#7yxx9YU-6Hlv5n3OFwc_jGvKN2cW7sqyqa-0kFItM3w) | 8.44.1 | 1.5 |
+    | [Twitter](https://mega.nz/file/tAQ1BCzC#g5SslRwZ2HVRcEl45z4UUrQMr4upKZqKmnF70gS5H5c) | 8.51 | 1.6 |
 
         
 &nbsp;
 
 ***Features***
 
+- [x] Save fleet images 
 - [x] Save tweets as images
 - [x] Save videos in inbox
 - [x] Disable typing notification
