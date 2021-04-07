@@ -10,7 +10,7 @@ A powerful tweak for Twitter!
    
     | Application | Version | Owl |
     | --- | --- | --- |
-    | [Twitter](https://mega.nz/file/tAQ1BCzC#g5SslRwZ2HVRcEl45z4UUrQMr4upKZqKmnF70gS5H5c) | 8.51 | 1.6 |
+    | [Twitter](https://mega.nz/file/BQxWkayC#rtlTL9mhwr0PsyYfy_1iaKXmtdYo1dIHPPXldaM1yAU) | 8.59 | 1.7 |
 
         
 &nbsp;
@@ -45,7 +45,3 @@ A powerful tweak for Twitter!
 
 
 ***Please note that push notifications may not work***
-
-
-### TODO 
-A more thorough guide is needed!  
