@@ -10,7 +10,7 @@ A powerful tweak for Twitter!
    
     | Application | Version | Owl |
     | --- | --- | --- |
-    | [Twitter](https://mega.nz/file/BQxWkayC#rtlTL9mhwr0PsyYfy_1iaKXmtdYo1dIHPPXldaM1yAU) | 8.59 | 1.7 |
+    | [Twitter](https://mega.nz/file/dUhQlI7J#joo-fQHD7re0D4u2J5mIV8-utpjJr8grBJP_bvzbuAc) | 8.65 | 1.7.1 |
 
         
 &nbsp;
